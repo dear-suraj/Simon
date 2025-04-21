@@ -1,2 +1,2 @@
 # Simon
-mini game
+A memory game!!
